@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+
+{{ partial "head.html" . }}
+
+<body>
+    {{ partial "header.html" . }}
+
+    <main class="content-wrapper">
+        <article class="content-container">
+            <section>
+                <p>Here is some text</p>
+                <p>Here is some more text</p>
+            </section>
+
+            <section>
+                <h3>Essays</h3>
+                <ul>
+                    {{ range .Site.RegularPages }}
+                    <li>
+                        <a href="{{ .Permalink }}">{{ .Title }}</a>
+                    </li>
+                    {{ end }}
+                </ul>
+            </section>
+
+            <section>
+                <h3>Links</h3>
+                <ul>
+                    <li>
+                        <a href="https://github.com/grantbirki/dario" target="_blank" rel="noopener noreferrer">GitHub</a>
+                    </li>
+                </ul>
+            </section>
+        </article>
+    </main>
+</body>
+
+</html>

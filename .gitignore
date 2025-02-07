@@ -14,6 +14,10 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.temp
+tmp/
 
 # Local development files
 *.local
+
+resources/
+public/

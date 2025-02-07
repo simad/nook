@@ -1,7 +1,7 @@
 ---
 title: "An Example Writing"
 author: ["hugo", "monalisa"] # can be an array or just a string
-description: "This is an example"
+description: "On how to write an example blog post"
 
 # The summary is for search engines
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

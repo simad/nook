@@ -11,6 +11,9 @@ date: 2000-01-01T00:00:00-00:00 # date of creation
 searchHidden: false # hide from search
 
 draft: false
+
+ogTitle: Grant Birkinbine
+ogDescription: "An example of using the Dario hugo theme"
 ---
 
 This article offers a sample of basic Markdown[^1] syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.

@@ -21,3 +21,5 @@ tmp/
 
 resources/
 public/
+
+node_modules/

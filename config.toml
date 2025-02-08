@@ -7,5 +7,5 @@ theme = "dario"
   [params.homeInfoParams]
     Title = "log.birki.io"
     Content = "Here is a link:\n - [my website](https://birki.io/)"
+    Description = "Default Open Graph Description"
 
-  description = "Default Open Graph Description"

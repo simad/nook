@@ -1,5 +1,9 @@
 # log
 
+[![deploy](https://github.com/GrantBirki/log/actions/workflows/deploy.yml/badge.svg)](https://github.com/GrantBirki/log/actions/workflows/deploy.yml)
+[![Unlock On Merge](https://github.com/GrantBirki/log/actions/workflows/unlock-on-merge.yml/badge.svg)](https://github.com/GrantBirki/log/actions/workflows/unlock-on-merge.yml)
+[![ci](https://github.com/GrantBirki/log/actions/workflows/ci.yml/badge.svg)](https://github.com/GrantBirki/log/actions/workflows/ci.yml)
+
 A personal web log based on my [Dario](https://github.com/GrantBirki/dario) Hugo theme.
 
 View the [live demo](https://log.birki.io) to see what it looks like.

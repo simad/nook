@@ -8,8 +8,6 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit
 
 date: 2000-01-01T00:00:00-00:00 # date of creation
 
-searchHidden: false # hide from search
-
 draft: false
 
 ogTitle: Grant Birkinbine
@@ -84,97 +82,6 @@ The blockquote element represents content that is quoted from another source, op
 <pre>
 This is pre text
 </pre>
-
-### Code block with backticks
-
-```
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="utf-8" />
-        <title>Example HTML5 Document</title>
-    </head>
-    <body>
-        <p>Test</p>
-    </body>
-</html>
-```
-
-### Code block with backticks and language specified
-
-```html {linenos=true}
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="utf-8" />
-        <title>Example HTML5 Document</title>
-        <meta name="description" content="Sample article showcasing basic Markdown syntax and formatting for HTML elements.">
-    </head>
-    <body>
-        <p>Test</p>
-    </body>
-</html>
-```
-
-### Code block indented with four spaces
-
-    <!doctype html>
-    <html lang="en">
-    <head>
-      <meta charset="utf-8">
-      <title>Example HTML5 Document</title>
-    </head>
-    <body>
-      <p>Test</p>
-    </body>
-    </html>
-
-### Code block with Hugo's internal highlight shortcode
-
-{{< highlight html >}}
-
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-{{< /highlight >}}
-
-### Ruby Example
-
-Here is another example of a codeblock, this time with Ruby as an example
-
-```ruby
-# frozen_string_literal: true
-
-module GitHubUsernameRegex
-
-  # check if a GitHub username is valid
-  # :param username: the username to check (String)
-  # :return: true if the username is valid, false if it is invalid (Boolean)
-  def self.valid?(username)
-    # if the username is valid, return true
-    if username.match(/^[a-z\d](?:[a-z\d]|-(?=[a-z\d])){0,38}$/i)
-      return true
-    # if the username is invalid, return false
-    else
-      return false
-    end
-  # if an error occurs, return false
-  rescue StandardError => _e
-    return false
-  end
-end
-```
-
-### Gist
-
-{{< gist spf13 7896402 >}}
 
 ## List Types
 

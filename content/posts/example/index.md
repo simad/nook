@@ -8,6 +8,8 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit
 
 date: 2000-01-01T00:00:00-00:00 # date of creation
 
+# disableAnchoredHeadings: false
+
 draft: false
 
 ogTitle: Grant Birkinbine

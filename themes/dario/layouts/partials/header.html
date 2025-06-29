@@ -1,0 +1,27 @@
+<header>
+    <div>
+        <div>
+            <h1>
+                <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+            </h1>
+        </div>
+        <div class="header-right-side">
+            <div>
+                <a href="/nook/about">About</a>
+            </div>
+            <div class="header-controls">
+                <div class="toggle-switch">
+                    <input
+                            type="checkbox"
+                            id="darkModeToggle"
+                            class="toggle-input"
+                            aria-label="Toggle dark mode"
+                    />
+                    <label for="darkModeToggle" class="toggle-label">
+                        <span class="toggle-slider"></span>
+                    </label>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>

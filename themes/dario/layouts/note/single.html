@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+
+{{ partial "head.html" . }}
+
+<body>
+
+    {{ partial "header.html" . }}
+
+    <main class="content-wrapper">
+        <article class="content-container">
+            <p class="author-date">
+                {{- if .Date }}
+                <time datetime="{{ .Date }}">{{ .Date.Format "January 2, 2006" }}</time>
+                {{ end }}
+            </p>
+
+            <h1 class="note-title">{{ .Title }}</h1>
+            <h4 class="note-description">{{ .Params.description }}</h4>
+            {{- if not (.Param "disableAnchoredHeadings") }}
+            {{- partial "anchored_headings.html" .Content -}}
+            {{- else }}{{ .Content }}{{ end }}
+        </article>
+    </main>
+
+    {{ partial "footer.html" . }}
+</body>
+
+</html>

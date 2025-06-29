@@ -1,0 +1,12 @@
+baseURL = "https://silvia.coffee/nook"
+languageCode = "en-gb"
+title = "The Curiosity Nook"
+
+theme = "dario"
+
+[params]
+  browserTitle = "Curiosity Nook"
+  author = "Silvia Mandala"
+  description = "Silvia's corner of the interwebs."
+
+

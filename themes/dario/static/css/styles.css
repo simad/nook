@@ -41,7 +41,7 @@ html.js-loaded {
 
 /* Dark Mode Variables */
 .dark-mode {
-  --bg-color: #141413;
+  --bg-color: #262626;
   --text-color: #f0efea;
   --border-color: #444;
   --footnote-bg-color: rgba(255, 255, 255, 0.15);
@@ -52,7 +52,7 @@ html.js-loaded {
   --subscribe-form-bg: transparent;
   --subscribe-form-text: #f0efea;
   --subscribe-button-bg: #f0efea;
-  --subscribe-button-text: #141413;
+  --subscribe-button-text: #262626;
   --invert-percentage: 100%;
   --code-bg: rgb(55, 56, 62);
   --hljs-bg: rgb(46, 46, 51);
@@ -210,6 +210,10 @@ header > div {
   gap: 1.5rem;
 }
 
+header a {
+  text-decoration: none;
+  transition: border-color 0.2s ease;
+}
 
 header h1,
 header h1 a {
@@ -379,7 +383,8 @@ center {
 .author-date {
   font-weight: 400;
   font-size: 0.9em;
-  color: #767676;
+  color: var(--text-color);
+  opacity: 0.7;
   margin-top: 60px;
   margin-bottom: 0;
   line-height: 1.4;

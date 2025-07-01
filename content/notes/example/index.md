@@ -9,7 +9,7 @@ date: 2000-01-01T00:00:00-00:00 # date of creation
 
 # disableAnchoredHeadings: false
 
-draft: false
+draft: true
 
 ogTitle: Grant Birkinbine
 ogDescription: "An example of using the Dario hugo theme"

@@ -1,3 +1,6 @@
+# A repository of tiny thoughts
+
+Thanks to @GrantBirki for the wonderful theme [dario](https://github.com/GrantBirki/dario)
 ## Development
 
 To run the site locally, simply run:

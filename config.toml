@@ -4,6 +4,9 @@ title = "The Curiosity Nook"
 
 theme = "dario"
 
+[permalinks]
+notes = '/:slug/'
+
 [params]
   browserTitle = "Curiosity Nook"
   author = "Silvia Mandala"

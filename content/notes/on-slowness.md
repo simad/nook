@@ -6,14 +6,12 @@ description: "Not many other things can be as delightful and uncomfortable"
 # The summary is for search engines
 summary: The uncomfortable joy of slowness. Reflections as to why slowing down might be our true competitive edge against AI.
 
-date: 2000-01-01T00:00:00-00:00 # date of creation
+date: 2025-07-01
 
 # disableAnchoredHeadings: false
 
 draft: false
 ---
-# On slowness
-
 I've been thinking about slowness, recently. For the first time in what feels like forever, I've found myself yearning for slow mornings, the kind that smell of fresh ground coffee and feel like soft silk.
 It's a bit ironic, considering I've forged part of my identity around my multiple interests, my machine-like efficiency and capacity to get a lot of stuff done.
 

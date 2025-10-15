@@ -50,7 +50,7 @@ jobs:
           environment: "github-pages"
           production_environments: "github-pages"
           skip_completing: "true" # we will complete the deployment manually in the 'result' job
-          admins: "GrantBirki"
+          admins: "simad"
 
   # build the github-pages site with hugo
   build:

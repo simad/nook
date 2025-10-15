@@ -19,7 +19,7 @@ I would consider myself a pretty agentic person, which means I hardly ever had t
 
 A person who's very important to me often says "enter the forest in the place which is the darkest". I not only am in the forest; I've chosen to make camp here. I stare at the possible paths leading to the exit, knowing I can take them at any time. I can make all of this stop. Yet, I am not, and it's a conscious decision (which, to be honest, I question pretty regularly).
 
-Here I am now, feeling powerless, torn and tattered. And while there is a time and place for decisive action, for cutting the thing that hurts out, for wholesome days filled with light - today is not one of them.
-And while at this very moment the forest is pretty dark and menacing, I am learning to trust that the darkness won't crush me. That I don't need to preemptively terraform my entire world to avoid pain, but that I can learn to start a campfire - and who knows, I might even find it cozy and be able to read a book next to its blistering embers.
+Here I am now, feeling powerless, torn and tattered. And while there is a time and place for decisive action, for cutting things that hurt, for wholesome days filled with light - today is not one of them.
+And while at this very moment the forest is pretty dark and menacing, I am learning to trust that the darkness won't crush me. That I don't need to preemptively terraform my entire world to avoid pain, but that I can learn to start a campfire - and who knows, I might even find it cozy and be able to read a book next to its blistering embers, at some point.
 
 I know eventually I will be out there again - just not today. Today, I'm deep in the struggle. Tomorrow, or next week, or next month, I will rise from it.

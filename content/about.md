@@ -12,4 +12,4 @@ You might be thinking, "That's a lot of different things!" And you'd be right. I
 
 Consider this a **cozy lab for thought**, a place where we can ponder, learn, and grow together. There's no pressure here, just an open invitation to explore the fascinating world around us, one curious idea at a time.
 
-P.S. The em dashes (—) are all mine. I was using them before they were ~AI-generated~ cool.
+P.S. The em dashes (—) are all mine. I was using them before they were ~~AI-generated~~ cool.

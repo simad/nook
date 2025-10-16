@@ -13,7 +13,7 @@ date: 2025-10-15
 draft: false
 ---
 
-I’m going through some challenging times at the moment. It’s a tapestry of uncertainty, its fibers woven in patterns of patience and discomfort, and I’m sitting quietly right in the middle of this tapestry.
+I’m going through some challenging times at the moment. It’s a tapestry of uncertainty, its fibers woven in patterns of patience and discomfort, and I’m sitting quietly right in the middle of it.
 
 I would consider myself an agentic person, which means I have hardly ever had to really process feelings of powerlessness. I always ejected them from my system by sheer will and decisive action. I changed things that were uncomfortable. I left situations and people who brought uncertainty. I created a shell of productivity and success on which they would just bounce off and dissolve into the aether.
 

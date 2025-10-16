@@ -23,4 +23,4 @@ Here I am now, feeling powerless, torn, and tattered. And while there is a time 
 
 And while at this very moment the forest is pretty dark and menacing, I am learning to trust that the darkness won’t crush me. That I don’t need to preemptively terraform my entire world to avoid pain, but that I can learn to start a campfire—and who knows, I might even find it cozy and be able to read a book next to its glowing embers, at some point.
 
-I know eventually I will be out there again, but not today. Today, I’m deep in the struggle. Tomorrow, or next week, or next month, I will rise from it,
+I know eventually I will be out there again, but not today. Today, I’m deep in the struggle. Tomorrow, or next week, or next month, I will rise from it.

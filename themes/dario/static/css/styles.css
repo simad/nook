@@ -367,6 +367,12 @@ center {
 
 /* Mobile Typography */
 @media (max-width: 1076px) {
+    .site-title {
+        font-size: 99%;
+    }
+    header > div {
+        flex-direction: column;
+    }
   h1 {
     font-size: 2.4em;
   }
